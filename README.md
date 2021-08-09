@@ -8,7 +8,7 @@ TBA
 
 ## Table of Contents
   - [Description](#description)
-  - [Video] (#Video)
+  - [Video](#Video)
   - [Instalation](#instalation)
   - [Usage](#usage)   
   - [Questions](#questions)
