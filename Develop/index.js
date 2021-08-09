@@ -3,7 +3,7 @@ const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown")
-const writeFileAsync = util.promisify(writeToFile);
+const writeFileAsync = util.promisify(fileCreate);
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -56,7 +56,7 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
+function fileCreate(fileName, data) {
     fs.writeFile(fileName, data, err => {
     if (err) {
         return console.log(err);
@@ -72,7 +72,7 @@ async function init() {
         const input = await inquirer.prompt(questions);                
         const generatedReadme = generateMarkdown(input);
         console.log(generatedReadme);
-        await writeFileAsync('ExampleREADME.md', generatedReadme);
+        await writeFileAsync('testReadMe.md', generatedReadme);
 
     } catch (error) {
         console.log(error);

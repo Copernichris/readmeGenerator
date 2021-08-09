@@ -42,6 +42,7 @@ function generateMarkdown(data) {
 ## Questions
   ${data.github}
   ${data.questions}
+  Feel free to contact at the following email: 
   ${data.email}
 `;
 }
