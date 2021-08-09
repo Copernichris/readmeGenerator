@@ -1,31 +1,34 @@
 
-# title
+# test 2
 
 ## Description
-  describe loorem lalala
+  this is a test to see if line break works
 
 ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)  
+  - [License](#license)
+  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
-## Installation
-  none
+## Instalation
+  none this is just a test
 
 ## Usage
-  by using it
+  trying to add line break to md
 
 ## License
-  good one
+  none
 
 ## Tests
-  many done
+  none done
 
 ## Questions
-  copernichris
-  nah
+  Github: copernichris
+  <br>
+  best contacted at lunch time
+  <br>
   Feel free to contact at the following email: 
-  christhomas2101@gmail.com
+  bob2101@gmail.com

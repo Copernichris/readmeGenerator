@@ -40,8 +40,10 @@ function generateMarkdown(data) {
   ${data.tests}
 
 ## Questions
-  ${data.github}
+  Github: ${data.github}
+  <br>
   ${data.questions}
+  <br>
   Feel free to contact at the following email: 
   ${data.email}
 `;
