@@ -1,8 +1,8 @@
 
-# test 3
-
+# Final Test
+[![License: ODbL](https://img.shields.io/badge/License-ODbL-yellow.svg)](https://opensource.org/licenses/ODbL)
 ## Description
-  testing for working github link
+  this is a test to see if my second badge works
 
 ## Table of Contents
   - [Description](#description)
@@ -14,21 +14,21 @@
   - [Questions](#questions)
 
 ## Instalation
-  none
+  npm install is the only prerequisite
 
 ## Usage
-  asdf
+  type in the information corresponding to the prompts
 
 ## License
-  asdf
+  This project uses the following licenses: ODbL
 
 ## Tests
-  none
+  NA
 
 ## Questions
   Github: [my repo](https://github.com/Copernichris)
   <br>
-  none
+  NA
   <br>
   Feel free to contact at the following email: 
   christhomas2101@gmail.com
