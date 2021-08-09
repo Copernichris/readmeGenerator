@@ -3,12 +3,12 @@
 ## Description
 This generator uses javascript and node to aid a user in creating a professional README document. The generator prompts a user to input a title, description, instalation steps, useage, license, tests, and questions section. The completed README features a functional badge, table of contents, and link to the users github repository.
 
-## Video Link
+## Video
 TBA
 
 ## Table of Contents
   - [Description](#description)
-  - [Video 
+  - [Video] (#Video)
   - [Instalation](#instalation)
   - [Usage](#usage)   
   - [Questions](#questions)
