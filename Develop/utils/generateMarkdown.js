@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
 ## Questions
-  Github: ${data.github}
+  Github: [my repo](https://github.com/${data.github})
   <br>
   ${data.questions}
   <br>

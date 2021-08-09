@@ -1,8 +1,8 @@
 
-# test 2
+# test 3
 
 ## Description
-  this is a test to see if line break works
+  testing for working github link
 
 ## Table of Contents
   - [Description](#description)
@@ -14,21 +14,21 @@
   - [Questions](#questions)
 
 ## Instalation
-  none this is just a test
-
-## Usage
-  trying to add line break to md
-
-## License
   none
 
+## Usage
+  asdf
+
+## License
+  asdf
+
 ## Tests
-  none done
+  none
 
 ## Questions
-  Github: copernichris
+  Github: [my repo](https://github.com/Copernichris)
   <br>
-  best contacted at lunch time
+  none
   <br>
   Feel free to contact at the following email: 
-  bob2101@gmail.com
+  christhomas2101@gmail.com
