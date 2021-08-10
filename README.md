@@ -20,4 +20,4 @@ TBA
   Run node.js then follow the prompts. Licences are selected using a selector. The console will then inform you of the creation of your new readme.
 
 ## Screenshot
-TBA
+[Screenshot](https://github.com/Copernichris/readmeGenerator/blob/main/SS.png)
