@@ -11,7 +11,7 @@ TBA
   - [Video](#Video)
   - [Instalation](#instalation)
   - [Usage](#usage)   
-  - [Questions](#questions)
+  - [Screenshot](#Screenshot)
 
 ## Instalation
   Run npm install for the project to function.
@@ -19,11 +19,5 @@ TBA
 ## Usage
   Run node.js then follow the prompts. Licences are selected using a selector. The console will then inform you of the creation of your new readme.
 
-
-## Questions
-  Github: [Copernichris](https://github.com/Copernichris)
-  <br>
-  Best contacted via github.
-  <br>
-  Feel free to contact at the following email: 
-  christhomas2101@gmail.com
+## Screenshot
+TBA
